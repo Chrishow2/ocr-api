@@ -4,8 +4,8 @@ A simple Flask-based OCR (Optical Character Recognition) API that extracts text 
 
 ## Features
 
-- Extract text from uploaded images
 - Health check endpoint for monitoring
+- Extract text from uploaded images
 - Docker containerization for easy deployment
 - Built with Flask and Tesseract OCR
 
@@ -19,7 +19,7 @@ A simple Flask-based OCR (Optical Character Recognition) API that extracts text 
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Chrishow2/ocr-api.git
 cd ocr-api
 ```
 
